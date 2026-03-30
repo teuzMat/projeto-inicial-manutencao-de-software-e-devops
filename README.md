@@ -7,12 +7,12 @@ Versão 1.4, a versão final do projeto para demonstrar o uso básico do Git.
 - style.css
 - script.js
 
-### Aprendizados
+## Aprendizados
 - Aprendi como conectar o VSCode com o GitHub para subir projetos;
 - Aprendi como criar uma nova branch e trocar para ela via terminal;
 - Aprendi como criar uma nova branch para causar um conflito.
 
-#### Anexos:
+## Anexos:
 
 Print 01: git status (antes do commit)
 <img width="865" height="248" alt="Print 01 - Git Status Antes" src="https://github.com/user-attachments/assets/78a98c6c-f4ee-4e92-af2f-dade8a028338" />
